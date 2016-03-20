@@ -1,0 +1,5 @@
+projectKey=spring-guides-gs-gradle
+serverUrl=http://localhost:9000
+dashboardUrl=http://localhost:9000/dashboard/index/spring-guides-gs-gradle
+ceTaskId=AVOVB2Sc-LgY1iV8fyTw
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AVOVB2Sc-LgY1iV8fyTw
