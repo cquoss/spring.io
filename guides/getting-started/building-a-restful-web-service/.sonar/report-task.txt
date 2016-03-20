@@ -1,0 +1,5 @@
+projectKey=spring-guides-gs-rest-service
+serverUrl=http://localhost:9000
+dashboardUrl=http://localhost:9000/dashboard/index/spring-guides-gs-rest-service
+ceTaskId=AVOWSzg401Yv-xgbxsly
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AVOWSzg401Yv-xgbxsly
