@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8" />
+<title>Aufzeichnungen Clemens Quoß</title>
+</head>
+<body>
+<h1>Aufzeichnungen Clemens Quoß</h1>
+<p>
+	Auf dieser und den untergeordneten Seiten finden sich die Aufzeichnungen von mir, Clemens Quoß. 
+	Es ist so etwas wie ein digitales Tagebuch, aufgezeichnet in statischem HTML (archaisch!).
+</p>
+<ul>
+	<li><a href="Februar_2016.html">Februar 2016</a>
+</ul>
+</body>
+</html>
