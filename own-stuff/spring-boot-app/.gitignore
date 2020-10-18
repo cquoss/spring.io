@@ -1,0 +1,6 @@
+.gradle
+caches
+daemon
+native
+wrapper
+

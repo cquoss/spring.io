@@ -1,5 +1,7 @@
 package hello;
 
+import javax.batch.runtime.JobExecution;
+
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.batch.core.listener.JobExecutionListenerSupport;
@@ -20,4 +22,8 @@ public class JobCompletionNotificationListener extends JobExecutionListenerSuppo
 		this.jdbcTemplate = jdbcTemplate;
 	}
 
+	@Override
+	public void afterJob(JobExecution jobExecution) {
+		if (jobExecution.get)
+	}
 }
